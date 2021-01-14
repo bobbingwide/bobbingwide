@@ -1,4 +1,4 @@
-### Hi there 👋
+### Herb Miller
 
 <!--
 **bobbingwide/bobbingwide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on a number of WordPress related projects 
+
+- [Fizzie](https://github.com/bobbingwide/fizzie) - An experimental Full Site Editing theme for https://blocks.wp-a2z.org
+- [SB-Chart-block](https://github.com/bobbingwide/sb-chart-block) - A single block plugin to display Charts from CSV content.
+- [Slog](https://github.com/bobbingwide/slog) - An addon to my oik-bwtrace plugin to analyse daily trace summary reports.
+
+I have more open issues than closed issues. 
+
+Herb 14th January 2020
