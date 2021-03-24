@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 I'm currently working on a number of WordPress related projects 
 
+- [SB](https://github.com/bobbingwide/SB) - Seriously Bonkers' experimental Full Site Editing theme.
 - [Fizzie](https://github.com/bobbingwide/fizzie) - An experimental Full Site Editing theme for https://blocks.wp-a2z.org
 - [SB-Chart-block](https://github.com/bobbingwide/sb-chart-block) - A single block plugin to display Charts from CSV content.
 - [Slog](https://github.com/bobbingwide/slog) - An addon to my oik-bwtrace plugin to analyse daily trace summary reports.
@@ -24,6 +25,7 @@ I'm currently working on a number of WordPress related projects
 
 I have more open issues than closed issues. 
 
-Herb 25th January 2021
-
+Herb 25th January 2021, 
 Yesterday's useless trivia. The total number of plugin downloads from wordpress.org has exceeded 5 billion. 3.2 million a day. 40 a second.
+
+Updated 24th March 2021.
