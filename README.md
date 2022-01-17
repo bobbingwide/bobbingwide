@@ -33,6 +33,6 @@ WordPress plugins:
 - [SB-field-block](https://github.com/bobbingwide/sb-field-block) - Field block to edit and display post meta data.
 - [oik-unloader](https://github.com/bobbingwide/oik-unloader) - WordPress Must Use plugin to unload unnecessary plugins on demand
 - [oik-update](https://github.com/bobbingwide/oik-update) - WP-a2z repository update automation
-- [gbcptedit](https://githib.com/bobbingwide/gbcptedit) - Gutenberg Custom Post Type edit
+- [gbcptedit](https://github.com/bobbingwide/gbcptedit) - Gutenberg Custom Post Type edit
 
 Updated 17th January 2022 
