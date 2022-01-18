@@ -24,6 +24,8 @@ WordPress Full Site Editing themes:
 - [SB](https://github.com/bobbingwide/sb) - Second Byte: Seriously Bonkers' experimental Full Site Editing theme.
 - [Fizzie](https://github.com/bobbingwide/fizzie) - An experimental Full Site Editing theme for https://blocks.wp-a2z.org
 - [Written](https://github.com/bobbingwide/written) - An experimental FSE theme to replace Genesis-hm
+- [ccd2022](https://github.com/bobbingwide/ccd2022) - Classic Car Doctor Full Site Editing theme for 2022
+
 
 
 WordPress plugins:
@@ -35,4 +37,4 @@ WordPress plugins:
 - [oik-update](https://github.com/bobbingwide/oik-update) - WP-a2z repository update automation
 - [gbcptedit](https://github.com/bobbingwide/gbcptedit) - Gutenberg Custom Post Type edit
 
-Updated 17th January 2022 
+Updated 18th January 2022 
