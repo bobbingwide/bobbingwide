@@ -36,5 +36,6 @@ WordPress plugins:
 - [oik-unloader](https://github.com/bobbingwide/oik-unloader) - WordPress Must Use plugin to unload unnecessary plugins on demand
 - [oik-update](https://github.com/bobbingwide/oik-update) - WP-a2z repository update automation
 - [gbcptedit](https://github.com/bobbingwide/gbcptedit) - Gutenberg Custom Post Type edit
+- [oik-patterns](https://github.com/bobbingwide/oik-patterns) - Pattern loader and cache
 
-Updated 18th January 2022 
+Updated 23rd January 2022 
