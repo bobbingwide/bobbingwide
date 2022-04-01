@@ -30,6 +30,7 @@ WordPress Full Site Editing themes:
 
 WordPress plugins:
 
+- [oik-bwtrace](https://github.com/bobbingwide/oik-bwtrace) - Debug trace for WordPress - improvements for performance measurements
 - [SB-Chart-block](https://github.com/bobbingwide/sb-chart-block) - A single block plugin to display Charts from CSV content.
 - [Slog](https://github.com/bobbingwide/slog) - An addon to my oik-bwtrace plugin to analyse daily trace summary reports and compare results.
 - [SB-field-block](https://github.com/bobbingwide/sb-field-block) - Field block to edit and display post meta data.
@@ -38,4 +39,4 @@ WordPress plugins:
 - [gbcptedit](https://github.com/bobbingwide/gbcptedit) - Gutenberg Custom Post Type edit
 - [oik-patterns](https://github.com/bobbingwide/oik-patterns) - Pattern loader and cache
 
-Updated 23rd January 2022 
+Updated 1st April 2022 - after midday
