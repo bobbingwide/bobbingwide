@@ -40,5 +40,5 @@ WordPress plugins:
 - [gbcptedit](https://github.com/bobbingwide/gbcptedit) - Gutenberg Custom Post Type edit
 - [oik-patterns](https://github.com/bobbingwide/oik-patterns) - Pattern loader and cache
 - [field-block-for-acf-pro](https://github.com/bobbingwide/field-block-for-acf-pro) - ACF Field block
-- 
+ 
 Updated 15th January 2024
