@@ -25,6 +25,7 @@ WordPress Full Site Editing themes:
 - [Fizzie](https://github.com/bobbingwide/fizzie) - An experimental Full Site Editing theme for https://blocks.wp-a2z.org
 - [Written](https://github.com/bobbingwide/written) - An experimental FSE theme to replace Genesis-hm
 - [ccd2022](https://github.com/bobbingwide/ccd2022) - Classic Car Doctor Full Site Editing theme for 2022
+- [tt4ai](https://githib.com/bobbingwide/tt4ai) - Child theme of Twenty Twenty-Four for writing about AI
 
 
 
@@ -38,5 +39,6 @@ WordPress plugins:
 - [oik-update](https://github.com/bobbingwide/oik-update) - WP-a2z repository update automation
 - [gbcptedit](https://github.com/bobbingwide/gbcptedit) - Gutenberg Custom Post Type edit
 - [oik-patterns](https://github.com/bobbingwide/oik-patterns) - Pattern loader and cache
-
-Updated 1st April 2022 - after midday
+- [field-block-for-acf-pro](https://github.com/bobbingwide/field-block-for-acf-pro) - ACF Field block
+- 
+Updated 15th January 2024
