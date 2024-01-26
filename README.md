@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm currently working on a number of WordPress related projects 
 
+- [oik-ai](https://github.com/bobbingwide/oik-ai) - my AI tool
+
 WordPress Full Site Editing themes:
 
 - [Wizzie](https://github.com/bobbingwide/wizzie) - Experimental WooCommerce enabled Full Site Editing child theme of Fizzie
@@ -26,8 +28,6 @@ WordPress Full Site Editing themes:
 - [Written](https://github.com/bobbingwide/written) - An experimental FSE theme to replace Genesis-hm
 - [ccd2022](https://github.com/bobbingwide/ccd2022) - Classic Car Doctor Full Site Editing theme for 2022
 - [tt4ai](https://githib.com/bobbingwide/tt4ai) - Child theme of Twenty Twenty-Four for writing about AI
-
-
 
 WordPress plugins:
 
@@ -41,4 +41,4 @@ WordPress plugins:
 - [oik-patterns](https://github.com/bobbingwide/oik-patterns) - Pattern loader and cache
 - [field-block-for-acf-pro](https://github.com/bobbingwide/field-block-for-acf-pro) - ACF Field block
  
-Updated 15th January 2024
+Updated 26th January 2024
