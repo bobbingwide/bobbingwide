@@ -14,19 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm planning on retiring when I reach State Penson Age. 
+- I'm working on reducing unnecessary tasks.
+- I'm in the process of closing down WP-a2z
 
-I'm currently working on a number of WordPress related projects 
+
+I'm still working on a number of WordPress related projects 
 
 - [oik-ai](https://github.com/bobbingwide/oik-ai) - my AI tool
 
+- But I've reduced the list of plugins and themes that I'm _currently working on_
+
 WordPress Full Site Editing themes:
 
-- [Wizzie](https://github.com/bobbingwide/wizzie) - Experimental WooCommerce enabled Full Site Editing child theme of Fizzie
-- [ThisIs...](https://github.com/bobbingwide/thisis) - ThisIs... experimental Full Site Editing
 - [SB](https://github.com/bobbingwide/sb) - Second Byte: Seriously Bonkers' experimental Full Site Editing theme.
-- [Fizzie](https://github.com/bobbingwide/fizzie) - An experimental Full Site Editing theme for https://blocks.wp-a2z.org
 - [Written](https://github.com/bobbingwide/written) - An experimental FSE theme to replace Genesis-hm
-- [ccd2022](https://github.com/bobbingwide/ccd2022) - Classic Car Doctor Full Site Editing theme for 2022
 - [tt4ai](https://githib.com/bobbingwide/tt4ai) - Child theme of Twenty Twenty-Four for writing about AI
 
 WordPress plugins:
@@ -36,9 +38,9 @@ WordPress plugins:
 - [Slog](https://github.com/bobbingwide/slog) - An addon to my oik-bwtrace plugin to analyse daily trace summary reports and compare results.
 - [SB-field-block](https://github.com/bobbingwide/sb-field-block) - Field block to edit and display post meta data.
 - [oik-unloader](https://github.com/bobbingwide/oik-unloader) - WordPress Must Use plugin to unload unnecessary plugins on demand
-- [oik-update](https://github.com/bobbingwide/oik-update) - WP-a2z repository update automation
 - [gbcptedit](https://github.com/bobbingwide/gbcptedit) - Gutenberg Custom Post Type edit
-- [oik-patterns](https://github.com/bobbingwide/oik-patterns) - Pattern loader and cache
 - [field-block-for-acf-pro](https://github.com/bobbingwide/field-block-for-acf-pro) - ACF Field block
  
-Updated 26th January 2024
+
+
+Updated 28th May 2024
