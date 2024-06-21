@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - I'm planning on retiring when I reach State Pension Age. 
 - I'm working on reducing unnecessary tasks.
-- I'm in the process of closing down WP-a2z
+- I'm in the process of closing down WP-a2z - the domain names have already expired!
 
 
 I'm still working on a number of WordPress related projects 
