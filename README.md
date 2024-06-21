@@ -43,4 +43,4 @@ WordPress plugins:
  
 
 
-Updated 28th May 2024
+Updated 21st June 2024
