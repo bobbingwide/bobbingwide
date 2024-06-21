@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm planning on retiring when I reach State Penson Age. 
+- I'm planning on retiring when I reach State Pension Age. 
 - I'm working on reducing unnecessary tasks.
 - I'm in the process of closing down WP-a2z
 
