@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm planning on retiring when I reach State Pension Age. 
+- I planned on retiring when I reached State Pension Age. That's now happened, but I am still maintaining my plugins and themes. 
 - I'm working on reducing unnecessary tasks.
-- I'm in the process of closing down WP-a2z - the domain names have already expired!
+- I've closed down WP-a2z.
 
 
 I'm still working on a number of WordPress related projects 
@@ -38,9 +38,8 @@ WordPress plugins:
 - [Slog](https://github.com/bobbingwide/slog) - An addon to my oik-bwtrace plugin to analyse daily trace summary reports and compare results.
 - [SB-field-block](https://github.com/bobbingwide/sb-field-block) - Field block to edit and display post meta data.
 - [oik-unloader](https://github.com/bobbingwide/oik-unloader) - WordPress Must Use plugin to unload unnecessary plugins on demand
-- [gbcptedit](https://github.com/bobbingwide/gbcptedit) - Gutenberg Custom Post Type edit
 - [field-block-for-acf-pro](https://github.com/bobbingwide/field-block-for-acf-pro) - ACF Field block
  
 
 
-Updated 21st June 2024
+Updated 8th August 2024
