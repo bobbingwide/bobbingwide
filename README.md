@@ -29,7 +29,7 @@ WordPress Full Site Editing themes:
 
 - [SB](https://github.com/bobbingwide/sb) - Second Byte: Seriously Bonkers' experimental Full Site Editing theme.
 - [Written](https://github.com/bobbingwide/written) - An experimental FSE theme to replace Genesis-hm
-- [tt4ai](https://githib.com/bobbingwide/tt4ai) - Child theme of Twenty Twenty-Four for writing about AI
+- [tt4ai](https://github.com/bobbingwide/tt4ai) - Child theme of Twenty Twenty-Four for writing about AI
 
 WordPress plugins:
 
